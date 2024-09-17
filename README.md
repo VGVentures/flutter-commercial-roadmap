@@ -56,4 +56,4 @@ Our greater goal is to inspire others to consider and evaluate what they see as 
 
 Ultimately, we aspire to develop a shared community commercial roadmap — with input from enterprise users, service providers, and key individual contributors — that we can use to align our efforts and orient our collective strength and resources driving Flutter's continued growth.
 
-If you are interested in joining discussions and efforts to define a community-driven commercial roadmap, please add a comment to the first issue \[Link TBD\] or contact us via https://verygood.ventures/contact. 
+If you are interested in joining discussions and efforts to define a community-driven commercial roadmap, please add a comment to the [first issue](https://github.com/VGVentures/flutter-commercial-roadmap/issues/1) or contact us via https://verygood.ventures/contact. 
