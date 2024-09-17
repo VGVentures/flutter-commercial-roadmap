@@ -1,0 +1,61 @@
+## 2024-2025 VGV Commercial Roadmap for Flutter
+
+Our current roadmap is organized into key themes:
+
+1. Community — Improve community engagement and collaboration  
+2. Confidence — Increase market adoption & growth  
+3. Commerce — Drive commercial & economic outcomes  
+4. Capability — Accelerate use case advancement & differentiation
+
+## **1\. Community — Improve community engagement and collaboration**
+
+We will work to improve community engagement and collaboration. By demonstrating the combined strength and stability of the full Flutter ecosystem, we hope to minimize concerns related to the ecosystem’s perceived reliance on Google.
+
+We will prioritize efforts to organize the community, share and align commercial priorities, and raise the general visibility of Flutter’s commercial opportunities. We will initiate more actionable and visible conversations among ecosystem participants that ultimately produces public content that helps better align the ecosystem.
+
+We will publish and maintain our VGV commercial roadmap for Flutter and welcome feedback and collaboration. We will engage our network to encourage them to publish their own roadmaps and share their priorities.
+
+Our primary goal is to champion a community-wide initiative leading to the presentation of a community-driven commercial roadmap at the next Fluttercon US (or another suitable event) in 2025\.
+
+## **2\. Confidence — Grow Flutter market adoption**
+
+We will focus resources on activities that increase adoption and retention of Flutter to drive sustainable growth. We have noticed that many companies adopting Flutter for the first time struggle with establishing patterns and best practices for scalable development when using Flutter, and sometimes may blame the tool for bad outcomes. Poor execution and bad outcomes can lead to abandonment of Flutter and damage to Flutter’s reputation.
+
+We will work to maximize the likelihood that teams are able to build high quality products and achieve high quality outcomes. We will improve access to high-quality information and tools that help new Flutter teams get started with best practices and maximize scalable code quality.
+
+We will continue investing in open-source tools that accelerate productivity and make it easier for teams to achieve high quality code standards.
+
+Additionally, we will launch the "Very Good Engineering" website with articles, demos, and information based on our extensive experience building complex enterprise applications at global scale. We will welcome input and contributions from the community to develop this resource.
+
+## **3\. Commerce — Increase commercial & economic outcomes**
+
+We will invest in activities that we believe will increase the size of the Flutter economy and increase business opportunities and outcomes for all. Our primary focus will be driving greater enterprise and corporate involvement in the Flutter community.
+
+We will strongly encourage companies in our network to become more involved, invest in, and sponsor activities in the ecosystem. We will create content and calls to action that illustrate specific and actionable ways to get involved.
+
+We will demonstrate to enterprise leaders the importance of publicly sharing their usage of Flutter and the real business impact it has on their organizations. We will illustrate and make clear the importance of large enterprises and companies making their voices heard and lending their strength to the community.
+
+We will provide real incentives to our clients to publish case studies and marketing materials. We will offer free marketing support (e.g., creation of content, promotion, etc.) to enterprises that meet our criteria to reduce the burden and cost of creating Flutter-related content (Note: within reason, budget, and our criteria).
+
+We will partner with conference and event organizers to recruit enterprise sponsors and speakers. We will directly sponsor Flutter-related conferences in the US.
+
+## **4\. Capability — Advance use cases & differentiation**
+
+We will showcase Flutter's true multi-platform potential beyond mobile apps. Currently, Flutter is still widely seen as a solution for the development of mobile apps, which makes it directly competitive with other cross-platform tools. We will invest in activities that demonstrate Flutter’s true multi-platform capabilities as the “everything framework”.
+
+We will build awareness and visibility for Flutter's capabilities across various platforms through content, demos, and tools. We will invest in demos and prototypes and open-source code that highlight non-mobile use cases.
+
+We will demonstrate the "apples to oranges" comparison with other solutions — that Flutter is truly “multi-platform” not “cross-platform” — through business-oriented content and marketing materials.
+
+We will prioritize pitching new client opportunities that can showcase novel Flutter usage, and invest in interesting opportunities where appropriate.\\
+
+### 
+
+## Quick Reference
+
+| Theme | Focus | Actions |
+| :---- | :---- | :---- |
+| **1\. Community — Improve community engagement and collaboration** | Create a more stable and trusted Flutter ecosystem by organizing the community and aligning commercial priorities to demonstrate the combined strength of the community. | Initiate ecosystem conversations and discussions (e.g., 2024 Fluttercon USA keynote) Publish and seek feedback on our commercial roadmap Organize community forums for enterprises, service providers, and individuals (currently participating in or considering Flutter) Champion the development of a community-driven commercial roadmap to show solidarity and diversification beyond Google’s support. |
+| **2\. Confidence — Grow Flutter market adoption** | Improve access to high-quality information and tools for new Flutter teams to get them started on the right path to scalable code quality and confidence in their Flutter execution. | Launch "Very Good Engineering" website with articles, demos, and contribution opportunities Continue investing in open-source tools Invest in content establishing and advocating for best practices Establish forums for discussion and defining community-driven best practices |
+| **3\. Commerce — Increase commercial & economic outcomes** | Drive more corporate and large enterprise engagement, investment, and storytelling in the Flutter community. | Incentivize our clients to publish case studies Offer free marketing support to enterprises for creating Flutter-related content Invest in content demonstrating the importance of enterprise involvement in the ecosystem Partner with conference organizers to recruit enterprise sponsors and speakers Sponsor at Flutter conferences, especially in the US Release a "VGV Flutter Hiring Playbook"  |
+| **4\. Capability — Advance use cases & differentiation** | Showcase Flutter's true multi-platform potential beyond mobile apps as the “everywhere framework”. | Invest in demos, prototypes, content, and open-source tools highlighting non-mobile use cases (e.g., VGV Boombox) Prioritize client projects showcasing novel Flutter applications Develop whitepapers and marketing content focusing on non-mobile use cases |
