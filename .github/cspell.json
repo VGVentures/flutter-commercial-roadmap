@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "language": "en",
+  "dictionaries": ["en_US", "softwareTerms", "roadmap_dictionary"],
+  "dictionaryDefinitions": [
+    {
+      "name": "roadmap_dictionary",
+      "path": "./.cspell/roadmap_dictionary.txt",
+      "addWords": true
+    }
+  ],
+  "ignorePaths": [".github/workflows/**"]
+}

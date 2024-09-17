@@ -1,0 +1,40 @@
+name: "Validate PR"
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - edited
+      - synchronize
+
+jobs:
+  valdiate_pr_title:
+    name: Validate PR Title
+    runs-on: ubuntu-latest
+    steps:
+      - uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          types: |
+            fix
+            feat
+            docs
+            refactor
+            test
+            ci
+            chore
+            revert
+          requireScope: false
+  validate_spelling:
+    name: Validate Spelling
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Check Spelling
+        uses: zwaldowski/cspell-action@v1
+        with:
+          paths: "**/*.{md}"
+          config: .github/cspell.json
+          exclude: ".gitignore"
