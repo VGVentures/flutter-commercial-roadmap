@@ -2,11 +2,11 @@
   "version": "0.2",
   "enabled": true,
   "language": "en",
-  "dictionaries": ["en_US", "softwareTerms", "dev_dictionary"],
+  "dictionaries": ["en_US", "softwareTerms", "roadmap_dictionary"],
   "dictionaryDefinitions": [
     {
-      "name": "dev_dictionary",
-      "path": "./.cspell/dev_dictionary.txt",
+      "name": "roadmap_dictionary",
+      "path": "./.cspell/roadmap_dictionary.txt",
       "addWords": true
     }
   ],
