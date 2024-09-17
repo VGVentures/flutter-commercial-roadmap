@@ -1,0 +1,14 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "language": "en",
+  "dictionaries": ["en_US", "softwareTerms", "dev_dictionary"],
+  "dictionaryDefinitions": [
+    {
+      "name": "dev_dictionary",
+      "path": "./.cspell/dev_dictionary.txt",
+      "addWords": true
+    }
+  ],
+  "ignorePaths": [".github/workflows/**"]
+}
