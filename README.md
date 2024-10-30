@@ -4,6 +4,8 @@ In the interest of transparency and community alignment, we are sharing and open
 
 This initiative was debuted at FlutterCon US 2024. You can watch the entire keynote presentation [here on the FlutterCon website](https://www.droidcon.com/2024/10/17/build-to-succeed-with-flutter-a-commercial-roadmap-for-the-community/).
 
+[![CleanShot 2024-10-30 at 11 38 17](https://github.com/user-attachments/assets/57c2b387-5217-4a6a-8bff-ec6509bbdce5)](https://www.droidcon.com/2024/10/17/build-to-succeed-with-flutter-a-commercial-roadmap-for-the-community/)
+
 ## VGV Roadmaps:
 
 [2024-2025 VGV Commercial Roadmap for Flutter](roadmap_2024_2025.md)
