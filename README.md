@@ -2,7 +2,7 @@
 
 In the interest of transparency and community alignment, we are sharing and open sourcing the high-level details of VGV’s commercial roadmap for Flutter. Our objective is to allow anyone to see our priorities, provide feedback and insight, make their own plans to complement ours, and ideally create opportunities for collaboration to improve the commercial ecosystem of Flutter.
 
-<iframe src="https://player.vimeo.com/video/1020217723?autopause=0&amp;autoplay=0&amp;color=00adef&amp;portrait=0&amp;byline=0&amp;title=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-vimeo-tracked="true" data-ready="true"></iframe>
+This initiative was debuted at FlutterCon US 2024. You can watch the entire keynote presentation [here on the FlutterCon website](https://www.droidcon.com/2024/10/17/build-to-succeed-with-flutter-a-commercial-roadmap-for-the-community/).
 
 ## VGV Roadmaps:
 
