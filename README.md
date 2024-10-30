@@ -1,6 +1,8 @@
 # Commercial Roadmaps for Flutter
 
-In the interest of transparency and community alignment, we are sharing and open sourcing the high-level details of VGV’s commercial roadmap for Flutter.  Our objective is to allow anyone to see our priorities, provide feedback and insight, make their own plans to complement ours, and ideally create opportunities for collaboration to improve the commercial ecosystem of Flutter.
+In the interest of transparency and community alignment, we are sharing and open sourcing the high-level details of VGV’s commercial roadmap for Flutter. Our objective is to allow anyone to see our priorities, provide feedback and insight, make their own plans to complement ours, and ideally create opportunities for collaboration to improve the commercial ecosystem of Flutter.
+
+<iframe src="//player.vimeo.com/video/1020217723?autopause=0&amp;autoplay=0&amp;color=00adef&amp;portrait=0&amp;byline=0&amp;title=0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-vimeo-tracked="true" data-ready="true"></iframe>
 
 ## VGV Roadmaps:
 
@@ -8,15 +10,15 @@ In the interest of transparency and community alignment, we are sharing and open
 
 ### What is a “Commercial Roadmap”
 
-A *commercial roadmap* outlines the strategic initiatives and timelines necessary for nurturing and expanding the business ecosystem and community surrounding a fast-growing technology, fostering mutually beneficial partnerships, and driving overall market adoption and growth. 
+A _commercial roadmap_ outlines the strategic initiatives and timelines necessary for nurturing and expanding the business ecosystem and community surrounding a fast-growing technology, fostering mutually beneficial partnerships, and driving overall market adoption and growth.
 
 ##### **Goals for a Commercial Roadmap:**
 
-* Increase awareness & adoption of Flutter  
-* Expand enterprise adoption & commercial use  
-* Increase revenue & monetization opportunities  
-* Develop strong talent & job markets  
-* Improve ecosystem engagement, investment, & collaboration
+- Increase awareness & adoption of Flutter
+- Expand enterprise adoption & commercial use
+- Increase revenue & monetization opportunities
+- Develop strong talent & job markets
+- Improve ecosystem engagement, investment, & collaboration
 
 ##### **Complement to the Flutter project roadmap**
 
@@ -42,7 +44,7 @@ If you have feedback on our priorities or what you think are the key priorities 
 
 If you are a company that would like to collaborate with us on any of these activities, we welcome the partnership. Please create “issues” to provide feedback, suggest ideas, or start a discussion about collaboration. You can additionally contact us at [https://verygood.ventures/contact](https://verygood.ventures/contact).
 
-If you are a company, and would like to submit a link to your company’s roadmap, please consider opening a pull request. 
+If you are a company, and would like to submit a link to your company’s roadmap, please consider opening a pull request.
 
 Note: given the slow moving nature of this content and this initiative, we will review engagement on a regular basis, but please be patient and don’t expect rapid response times.
 
@@ -56,4 +58,4 @@ Our greater goal is to inspire others to consider and evaluate what they see as 
 
 Ultimately, we aspire to develop a shared community commercial roadmap — with input from enterprise users, service providers, and key individual contributors — that we can use to align our efforts and orient our collective strength and resources driving Flutter's continued growth.
 
-If you are interested in joining discussions and efforts to define a community-driven commercial roadmap, please add a comment to the [first issue](https://github.com/VGVentures/flutter-commercial-roadmap/issues/1) or contact us via https://verygood.ventures/contact. 
+If you are interested in joining discussions and efforts to define a community-driven commercial roadmap, please add a comment to the [first issue](https://github.com/VGVentures/flutter-commercial-roadmap/issues/1) or contact us via https://verygood.ventures/contact.
